@@ -1,0 +1,28 @@
+{
+  "name": "roole-builtin",
+  "version": "0.1.0",
+  "description": "Roole language builtins",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curvedmark/roole-builtin.git"
+  },
+  "keywords": [
+    "roole",
+    "builtin"
+  ],
+  "author": "Glen Huang <curvedmark@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curvedmark/roole/issues"
+  },
+  "dependencies": {
+    "roole-node": "*",
+    "roole-error": "*",
+    "intersperse": "1.x",
+    "natural-range": "1.x"
+  }
+}
