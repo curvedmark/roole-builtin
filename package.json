@@ -1,6 +1,6 @@
 {
   "name": "roole-builtin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Roole language builtins",
   "main": "index.js",
   "directories": {
