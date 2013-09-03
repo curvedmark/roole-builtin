@@ -6,3 +6,4 @@ exports.push = require('./lib/push');
 exports.unshift = require('./lib/unshift');
 exports.pop = require('./lib/pop');
 exports.shift = require('./lib/shift');
+exports['img-size'] = require('./lib/img-size');
