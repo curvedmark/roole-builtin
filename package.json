@@ -25,8 +25,7 @@
     "intersperse": "1.x",
     "natural-range": "1.x",
     "image-size": "0.1.5",
-    "promise-now": "1.x",
-    "path-extras": "1.x"
+    "promise-now": "1.x"
   },
   "browser": {
     "./lib/img-size.js": "./lib/img-size.browser.js"
